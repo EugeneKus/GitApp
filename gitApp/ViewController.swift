@@ -15,9 +15,16 @@ class ViewController: UIViewController {
         
         //Code 1
         /*
-         code
-         code
-         code
+         code1
+         code1
+         code1
+         */
+        
+        //Code 2
+        /*
+         code2
+         code2
+         code2
          */
         
     }
